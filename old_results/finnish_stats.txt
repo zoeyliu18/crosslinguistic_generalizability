@@ -1,0 +1,7 @@
+Language Size Replacement Morphs morphs_per_word
+fin 1500 with 1449.0 3.41
+fin 1500 without 1878.0 3.39
+fin 500 with 756.0 3.44
+fin 500 without 834.0 3.38
+fin 1000 with 1162.0 3.45
+fin 1000 without 1423.0 3.45

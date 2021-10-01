@@ -1,0 +1,5 @@
+Language Size Replacement Morphs morphs_per_word
+mayo 500 with 349.0 2.22
+mayo 500 without 423.0 2.09
+mayo 1000 with 488.0 2.18
+mayo 1000 without 635.0 2.12

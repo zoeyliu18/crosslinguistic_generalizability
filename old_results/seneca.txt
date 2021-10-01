@@ -1,0 +1,5 @@
+Language	Index	Proportion	Summary	Size	Replacement
+Robbie	Same best model	90.0	Best model: CRF	1000	with
+Robbie	Same model ranking	12.0	First ranking: CRF_Order1 CRF_Order2 CRF_Order4 CRF_Order3 CRF	1000	with
+Robbie	Same best model	76.0	Best model: CRF	1000	without
+Robbie	Same model ranking	6.0	First ranking: CRF_Order1 CRF_Order3 CRF_Order4 CRF_Order2 CRF	1000	without

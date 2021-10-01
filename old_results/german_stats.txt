@@ -1,0 +1,7 @@
+Language Size Replacement Morphs morphs_per_word
+ger 1500 with 1060.0 3.09
+ger 1500 without 1409.0 3.08
+ger 500 with 567.0 3.06
+ger 500 without 660.0 3.09
+ger 1000 with 908.0 3.09
+ger 1000 without 1081.0 3.06

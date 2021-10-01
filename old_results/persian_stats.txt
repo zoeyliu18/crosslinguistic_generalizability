@@ -1,0 +1,13 @@
+Language Size Replacement Morphs morphs_per_word
+persian 3000 with 2509.0 2.11
+persian 3000 without 2608.0 2.12
+persian 1500 with 1467.0 2.17
+persian 1500 without 1478.0 2.14
+persian 2000 with 1830.0 2.16
+persian 2000 without 1864.0 2.14
+persian 500 with 592.0 2.12
+persian 500 without 594.0 2.13
+persian 1000 with 1069.0 2.09
+persian 1000 without 1071.0 2.14
+persian 4000 with 3136.0 2.13
+persian 4000 without 3222.0 2.11

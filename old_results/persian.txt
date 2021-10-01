@@ -1,0 +1,61 @@
+Language	Index	Proportion	Summary	Size	Replacement
+persian	Same best model	30.0	Best model: 3-CRF	4000	with
+persian	Same top two model	12.0	Best top two model: 4-CRF 3-CRF	4000	with
+persian	Same model ranking	10.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 4-CRF 3-CRF	4000	with
+persian	A best model	46.0	What is it: 4-CRF	4000	with
+persian	A best model ranking	14.0	What is it: Morfessor 0-CRF Seq2seq 2-CRF 1-CRF 3-CRF 4-CRF	4000	with
+persian	Same best model	18.0	Best model: 1-CRF	4000	without
+persian	Same top two model	8.0	Best top two model: 2-CRF 1-CRF	4000	without
+persian	Same model ranking	2.0	First ranking: Morfessor 0-CRF Seq2seq 3-CRF 4-CRF 2-CRF 1-CRF	4000	without
+persian	A best model	30.0	What is it: 4-CRF	4000	without
+persian	A best model ranking	10.0	What is it: Morfessor 0-CRF Seq2seq 2-CRF 1-CRF 3-CRF 4-CRF	4000	without
+persian	Same best model	18.0	Best model: 4-CRF	500	with
+persian	Same top two model	10.0	Best top two model: 1-CRF 4-CRF	500	with
+persian	Same model ranking	8.0	First ranking: Morfessor 0-CRF Seq2seq 2-CRF 3-CRF 1-CRF 4-CRF	500	with
+persian	A best model	54.0	What is it: 1-CRF	500	with
+persian	A best model ranking	28.0	What is it: Morfessor 0-CRF Seq2seq 4-CRF 3-CRF 2-CRF 1-CRF	500	with
+persian	Same best model	18.0	Best model: 2-CRF	500	without
+persian	Same top two model	12.0	Best top two model: 1-CRF 2-CRF	500	without
+persian	Same model ranking	4.0	First ranking: Morfessor 0-CRF Seq2seq 3-CRF 4-CRF 1-CRF 2-CRF	500	without
+persian	A best model	46.0	What is it: 1-CRF	500	without
+persian	A best model ranking	14.0	What is it: Morfessor 0-CRF Seq2seq 4-CRF 3-CRF 2-CRF 1-CRF	500	without
+persian	Same best model	24.0	Best model: 3-CRF	3000	with
+persian	Same top two model	8.0	Best top two model: 2-CRF 3-CRF	3000	with
+persian	Same model ranking	4.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 4-CRF 2-CRF 3-CRF	3000	with
+persian	A best model	30.0	What is it: 4-CRF	3000	with
+persian	A best model ranking	14.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	3000	with
+persian	Same best model	22.0	Best model: 2-CRF	3000	without
+persian	Same top two model	18.0	Best top two model: 1-CRF 2-CRF	3000	without
+persian	Same model ranking	8.0	First ranking: Morfessor 0-CRF Seq2seq 3-CRF 4-CRF 1-CRF 2-CRF	3000	without
+persian	A best model	32.0	What is it: 3-CRF	3000	without
+persian	A best model ranking	10.0	What is it: Morfessor 0-CRF Seq2seq 4-CRF 3-CRF 1-CRF 2-CRF	3000	without
+persian	Same best model	28.0	Best model: 4-CRF	2000	with
+persian	Same top two model	16.0	Best top two model: 3-CRF 4-CRF	2000	with
+persian	Same model ranking	10.0	First ranking: Morfessor 0-CRF Seq2seq 2-CRF 1-CRF 3-CRF 4-CRF	2000	with
+persian	A best model	34.0	What is it: 1-CRF	2000	with
+persian	A best model ranking	12.0	What is it: Morfessor 0-CRF Seq2seq 3-CRF 2-CRF 4-CRF 1-CRF	2000	with
+persian	Same best model	22.0	Best model: 2-CRF	2000	without
+persian	Same top two model	6.0	Best top two model: 4-CRF 2-CRF	2000	without
+persian	Same model ranking	2.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 4-CRF 2-CRF	2000	without
+persian	A best model	30.0	What is it: 3-CRF	2000	without
+persian	A best model ranking	12.0	What is it: Morfessor 0-CRF Seq2seq 4-CRF 1-CRF 2-CRF 3-CRF	2000	without
+persian	Same best model	14.0	Best model: 4-CRF	1000	with
+persian	Same top two model	6.0	Best top two model: 1-CRF 4-CRF	1000	with
+persian	Same model ranking	2.0	First ranking: Morfessor 0-CRF Seq2seq 2-CRF 3-CRF 1-CRF 4-CRF	1000	with
+persian	A best model	44.0	What is it: 3-CRF	1000	with
+persian	A best model ranking	10.0	What is it: Morfessor 0-CRF Seq2seq 2-CRF 1-CRF 4-CRF 3-CRF	1000	with
+persian	Same best model	22.0	Best model: 4-CRF	1000	without
+persian	Same top two model	4.0	Best top two model: 1-CRF 4-CRF	1000	without
+persian	Same model ranking	2.0	First ranking: Morfessor 0-CRF Seq2seq 3-CRF 2-CRF 1-CRF 4-CRF	1000	without
+persian	A best model	40.0	What is it: 1-CRF	1000	without
+persian	A best model ranking	12.0	What is it: Morfessor 0-CRF Seq2seq 4-CRF 3-CRF 2-CRF 1-CRF	1000	without
+persian	Same best model	22.0	Best model: 3-CRF	1500	with
+persian	Same top two model	12.0	Best top two model: 4-CRF 3-CRF	1500	with
+persian	Same model ranking	6.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 4-CRF 3-CRF	1500	with
+persian	A best model	42.0	What is it: 1-CRF	1500	with
+persian	A best model ranking	24.0	What is it: Morfessor 0-CRF Seq2seq 4-CRF 3-CRF 2-CRF 1-CRF	1500	with
+persian	Same best model	34.0	Best model: 4-CRF	1500	without
+persian	Same top two model	14.0	Best top two model: 3-CRF 4-CRF	1500	without
+persian	Same model ranking	8.0	First ranking: Morfessor 0-CRF Seq2seq 2-CRF 1-CRF 3-CRF 4-CRF	1500	without
+persian	A best model	34.0	What is it: 4-CRF	1500	without
+persian	A best model ranking	10.0	What is it: Morfessor 0-CRF Seq2seq 3-CRF 4-CRF 2-CRF 1-CRF	1500	without

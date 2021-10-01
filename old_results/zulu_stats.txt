@@ -1,0 +1,13 @@
+Language Size Replacement Morphs morphs_per_word
+zul 3000 with 1209.0 4.01
+zul 3000 without 1338.0 4.0
+zul 1500 with 836.0 3.92
+zul 1500 without 837.0 3.98
+zul 2000 with 992.0 3.98
+zul 2000 without 1045.0 4.01
+zul 500 with 411.0 4.01
+zul 500 without 414.0 3.96
+zul 1000 with 617.0 3.94
+zul 1000 without 660.0 3.95
+zul 4000 with 1436.0 3.96
+zul 4000 without 1618.0 3.98

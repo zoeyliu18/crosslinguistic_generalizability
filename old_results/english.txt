@@ -1,0 +1,31 @@
+Language	Index	Proportion	Summary	Size	Replacement
+eng	Same best model	20.0	Best model: 2-CRF	500	with
+eng	Same top two model	6.0	Best top two model: 3-CRF 2-CRF	500	with
+eng	Same model ranking	4.0	First ranking: Morfessor Seq2seq 0-CRF 1-CRF 4-CRF 3-CRF 2-CRF	500	with
+eng	A best model	40.0	What is it: 3-CRF	500	with
+eng	A best model ranking	18.0	What is it: Morfessor Seq2seq 0-CRF 1-CRF 2-CRF 4-CRF 3-CRF	500	with
+eng	Same best model	50.0	Best model: 4-CRF	500	without
+eng	Same top two model	12.0	Best top two model: 2-CRF 4-CRF	500	without
+eng	Same model ranking	2.0	First ranking: Morfessor Seq2seq 0-CRF 1-CRF 3-CRF 2-CRF 4-CRF	500	without
+eng	A best model	50.0	What is it: 4-CRF	500	without
+eng	A best model ranking	30.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	500	without
+eng	Same best model	56.0	Best model: 4-CRF	1000	with
+eng	Same top two model	44.0	Best top two model: 3-CRF 4-CRF	1000	with
+eng	Same model ranking	40.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1000	with
+eng	A best model	56.0	What is it: 4-CRF	1000	with
+eng	A best model ranking	40.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1000	with
+eng	Same best model	74.0	Best model: 4-CRF	1000	without
+eng	Same top two model	46.0	Best top two model: 3-CRF 4-CRF	1000	without
+eng	Same model ranking	42.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1000	without
+eng	A best model	74.0	What is it: 4-CRF	1000	without
+eng	A best model ranking	42.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1000	without
+eng	Same best model	18.0	Best model: 3-CRF	1500	with
+eng	Same top two model	12.0	Best top two model: 4-CRF 3-CRF	1500	with
+eng	Same model ranking	4.0	First ranking: Morfessor 0-CRF 1-CRF 2-CRF Seq2seq 4-CRF 3-CRF	1500	with
+eng	A best model	48.0	What is it: 4-CRF	1500	with
+eng	A best model ranking	10.0	What is it: Morfessor 0-CRF Seq2seq 2-CRF 1-CRF 3-CRF 4-CRF	1500	with
+eng	Same best model	74.0	Best model: 4-CRF	1500	without
+eng	Same top two model	40.0	Best top two model: 3-CRF 4-CRF	1500	without
+eng	Same model ranking	8.0	First ranking: Morfessor 0-CRF Seq2seq 2-CRF 1-CRF 3-CRF 4-CRF	1500	without
+eng	A best model	74.0	What is it: 4-CRF	1500	without
+eng	A best model ranking	30.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1500	without

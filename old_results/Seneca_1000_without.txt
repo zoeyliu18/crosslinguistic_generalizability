@@ -1,0 +1,3 @@
+Language	Index	Proportion	Summary
+Language	Same best model	76.0	Best model: CRF
+Language	Same ranking	6.0	First ranking: CRF_Order1 CRF_Order3 CRF_Order4 CRF_Order2 CRF

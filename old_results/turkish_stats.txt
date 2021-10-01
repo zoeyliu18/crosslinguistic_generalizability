@@ -1,0 +1,7 @@
+Language Size Replacement Morphs morphs_per_word
+tur 1500 with 939.0 3.19
+tur 1500 without 1188.0 3.2
+tur 500 with 537.0 3.22
+tur 500 without 594.0 3.19
+tur 1000 with 784.0 3.27
+tur 1000 without 937.0 3.22

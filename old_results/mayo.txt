@@ -1,0 +1,21 @@
+Language	Index	Proportion	Summary	Size	Replacement
+mayo	Same best model	14.0	Best model: 1-CRF	500	with
+mayo	Same top two model	12.0	Best top two model: 2-CRF 1-CRF	500	with
+mayo	Same model ranking	6.0	First ranking: Morfessor 0-CRF Seq2seq 4-CRF 3-CRF 2-CRF 1-CRF	500	with
+mayo	A best model	56.0	What is it: 2-CRF	500	with
+mayo	A best model ranking	20.0	What is it: Morfessor Seq2seq 0-CRF 1-CRF 4-CRF 3-CRF 2-CRF	500	with
+mayo	Same best model	66.0	Best model: 2-CRF	500	without
+mayo	Same top two model	14.0	Best top two model: 1-CRF 2-CRF	500	without
+mayo	Same model ranking	4.0	First ranking: Morfessor Seq2seq 0-CRF 3-CRF 4-CRF 1-CRF 2-CRF	500	without
+mayo	A best model	66.0	What is it: 2-CRF	500	without
+mayo	A best model ranking	16.0	What is it: Morfessor Seq2seq 0-CRF 1-CRF 3-CRF 4-CRF 2-CRF	500	without
+mayo	Same best model	10.0	Best model: Seq2seq	1000	with
+mayo	Same top two model	6.0	Best top two model: 3-CRF Seq2seq	1000	with
+mayo	Same model ranking	2.0	First ranking: Morfessor 0-CRF 1-CRF 2-CRF 4-CRF 3-CRF Seq2seq	1000	with
+mayo	A best model	34.0	What is it: 2-CRF	1000	with
+mayo	A best model ranking	12.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 4-CRF 2-CRF	1000	with
+mayo	Same best model	30.0	Best model: 4-CRF	1000	without
+mayo	Same top two model	16.0	Best top two model: 3-CRF 4-CRF	1000	without
+mayo	Same model ranking	12.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1000	without
+mayo	A best model	48.0	What is it: 2-CRF	1000	without
+mayo	A best model ranking	16.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 4-CRF 3-CRF 2-CRF	1000	without

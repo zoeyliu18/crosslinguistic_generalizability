@@ -1,0 +1,51 @@
+Language	Index	Proportion	Summary	Size	Replacement
+ind	Same best model	90.0	Best model: 4-CRF	500	with
+ind	Same top two model	72.0	Best top two model: 3-CRF 4-CRF	500	with
+ind	Same model ranking	62.0	First ranking: Morfessor Seq2seq 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF	500	with
+ind	A best model	90.0	What is it: 4-CRF	500	with
+ind	A best model ranking	62.0	What is it: Morfessor Seq2seq 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF	500	with
+ind	Same best model	14.0	Best model: 3-CRF	500	without
+ind	Same top two model	10.0	Best top two model: 4-CRF 3-CRF	500	without
+ind	Same model ranking	8.0	First ranking: Morfessor Seq2seq 0-CRF 1-CRF 2-CRF 4-CRF 3-CRF	500	without
+ind	A best model	80.0	What is it: 4-CRF	500	without
+ind	A best model ranking	58.0	What is it: Morfessor Seq2seq 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF	500	without
+ind	Same best model	90.0	Best model: Seq2seq	3000	with
+ind	Same top two model	82.0	Best top two model: 4-CRF Seq2seq	3000	with
+ind	Same model ranking	48.0	First ranking: Morfessor 0-CRF 1-CRF 3-CRF 2-CRF 4-CRF Seq2seq	3000	with
+ind	A best model	90.0	What is it: Seq2seq	3000	with
+ind	A best model ranking	48.0	What is it: Morfessor 0-CRF 1-CRF 3-CRF 2-CRF 4-CRF Seq2seq	3000	with
+ind	Same best model	82.0	Best model: 4-CRF	3000	without
+ind	Same top two model	40.0	Best top two model: 2-CRF 4-CRF	3000	without
+ind	Same model ranking	20.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 2-CRF 4-CRF	3000	without
+ind	A best model	82.0	What is it: 4-CRF	3000	without
+ind	A best model ranking	20.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 2-CRF 4-CRF	3000	without
+ind	Same best model	94.0	Best model: 4-CRF	2000	with
+ind	Same top two model	36.0	Best top two model: 2-CRF 4-CRF	2000	with
+ind	Same model ranking	26.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 2-CRF 4-CRF	2000	with
+ind	A best model	94.0	What is it: 4-CRF	2000	with
+ind	A best model ranking	26.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 2-CRF 4-CRF	2000	with
+ind	Same best model	94.0	Best model: 4-CRF	2000	without
+ind	Same top two model	52.0	Best top two model: 2-CRF 4-CRF	2000	without
+ind	Same model ranking	44.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 2-CRF 4-CRF	2000	without
+ind	A best model	94.0	What is it: 4-CRF	2000	without
+ind	A best model ranking	44.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 2-CRF 4-CRF	2000	without
+ind	Same best model	8.0	Best model: 2-CRF	1000	with
+ind	Same top two model	8.0	Best top two model: 4-CRF 2-CRF	1000	with
+ind	Same model ranking	8.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 4-CRF 2-CRF	1000	with
+ind	A best model	84.0	What is it: 4-CRF	1000	with
+ind	A best model ranking	68.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1000	with
+ind	Same best model	96.0	Best model: 4-CRF	1000	without
+ind	Same top two model	34.0	Best top two model: 2-CRF 4-CRF	1000	without
+ind	Same model ranking	32.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 2-CRF 4-CRF	1000	without
+ind	A best model	96.0	What is it: 4-CRF	1000	without
+ind	A best model ranking	56.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1000	without
+ind	Same best model	90.0	Best model: 4-CRF	1500	with
+ind	Same top two model	52.0	Best top two model: 3-CRF 4-CRF	1500	with
+ind	Same model ranking	42.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1500	with
+ind	A best model	90.0	What is it: 4-CRF	1500	with
+ind	A best model ranking	42.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1500	with
+ind	Same best model	4.0	Best model: 3-CRF	1500	without
+ind	Same top two model	2.0	Best top two model: 2-CRF 3-CRF	1500	without
+ind	Same model ranking	2.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 4-CRF 2-CRF 3-CRF	1500	without
+ind	A best model	90.0	What is it: 4-CRF	1500	without
+ind	A best model ranking	48.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 3-CRF 4-CRF	1500	without

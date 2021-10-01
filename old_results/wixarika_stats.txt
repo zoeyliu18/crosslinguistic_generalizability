@@ -1,0 +1,5 @@
+Language Size Replacement Morphs morphs_per_word
+wixarika 500 with 316.0 3.43
+wixarika 500 without 354.0 3.26
+wixarika 1000 with 441.0 3.22
+wixarika 1000 without 527.0 3.32

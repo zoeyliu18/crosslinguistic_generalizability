@@ -1,0 +1,61 @@
+Language	Index	Proportion	Summary	Size	Replacement
+zul	Same best model	100.0	Best model: Seq2seq	4000	with
+zul	Same top two model	98.0	Best top two model: 4-CRF Seq2seq	4000	with
+zul	Same model ranking	50.0	First ranking: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	4000	with
+zul	A best model	100.0	What is it: Seq2seq	4000	with
+zul	A best model ranking	50.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	4000	with
+zul	Same best model	100.0	Best model: Seq2seq	4000	without
+zul	Same top two model	96.0	Best top two model: 4-CRF Seq2seq	4000	without
+zul	Same model ranking	52.0	First ranking: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	4000	without
+zul	A best model	100.0	What is it: Seq2seq	4000	without
+zul	A best model ranking	52.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	4000	without
+zul	Same best model	22.0	Best model: 2-CRF	500	with
+zul	Same top two model	6.0	Best top two model: 3-CRF 2-CRF	500	with
+zul	Same model ranking	4.0	First ranking: Morfessor 0-CRF Seq2seq 4-CRF 1-CRF 3-CRF 2-CRF	500	with
+zul	A best model	36.0	What is it: 3-CRF	500	with
+zul	A best model ranking	8.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 4-CRF 3-CRF	500	with
+zul	Same best model	14.0	Best model: 2-CRF	500	without
+zul	Same top two model	4.0	Best top two model: 3-CRF 2-CRF	500	without
+zul	Same model ranking	4.0	First ranking: Morfessor 0-CRF 1-CRF Seq2seq 4-CRF 3-CRF 2-CRF	500	without
+zul	A best model	28.0	What is it: 3-CRF	500	without
+zul	A best model ranking	12.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 4-CRF 3-CRF	500	without
+zul	Same best model	100.0	Best model: Seq2seq	3000	with
+zul	Same top two model	12.0	Best top two model: 3-CRF Seq2seq	3000	with
+zul	Same model ranking	4.0	First ranking: Morfessor 0-CRF 2-CRF 1-CRF 4-CRF 3-CRF Seq2seq	3000	with
+zul	A best model	100.0	What is it: Seq2seq	3000	with
+zul	A best model ranking	48.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	3000	with
+zul	Same best model	100.0	Best model: Seq2seq	3000	without
+zul	Same top two model	96.0	Best top two model: 4-CRF Seq2seq	3000	without
+zul	Same model ranking	22.0	First ranking: Morfessor 0-CRF 2-CRF 1-CRF 3-CRF 4-CRF Seq2seq	3000	without
+zul	A best model	100.0	What is it: Seq2seq	3000	without
+zul	A best model ranking	44.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	3000	without
+zul	Same best model	100.0	Best model: Seq2seq	2000	with
+zul	Same top two model	78.0	Best top two model: 4-CRF Seq2seq	2000	with
+zul	Same model ranking	28.0	First ranking: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	2000	with
+zul	A best model	100.0	What is it: Seq2seq	2000	with
+zul	A best model ranking	28.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	2000	with
+zul	Same best model	98.0	Best model: Seq2seq	2000	without
+zul	Same top two model	68.0	Best top two model: 4-CRF Seq2seq	2000	without
+zul	Same model ranking	8.0	First ranking: Morfessor 0-CRF 3-CRF 1-CRF 2-CRF 4-CRF Seq2seq	2000	without
+zul	A best model	98.0	What is it: Seq2seq	2000	without
+zul	A best model ranking	30.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	2000	without
+zul	Same best model	80.0	Best model: Seq2seq	1000	with
+zul	Same top two model	44.0	Best top two model: 4-CRF Seq2seq	1000	with
+zul	Same model ranking	20.0	First ranking: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	1000	with
+zul	A best model	80.0	What is it: Seq2seq	1000	with
+zul	A best model ranking	20.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	1000	with
+zul	Same best model	72.0	Best model: Seq2seq	1000	without
+zul	Same top two model	12.0	Best top two model: 3-CRF Seq2seq	1000	without
+zul	Same model ranking	2.0	First ranking: Morfessor 0-CRF 4-CRF 2-CRF 1-CRF 3-CRF Seq2seq	1000	without
+zul	A best model	72.0	What is it: Seq2seq	1000	without
+zul	A best model ranking	12.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	1000	without
+zul	Same best model	90.0	Best model: Seq2seq	1500	with
+zul	Same top two model	12.0	Best top two model: 1-CRF Seq2seq	1500	with
+zul	Same model ranking	4.0	First ranking: Morfessor 0-CRF 3-CRF 2-CRF 4-CRF 1-CRF Seq2seq	1500	with
+zul	A best model	90.0	What is it: Seq2seq	1500	with
+zul	A best model ranking	16.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	1500	with
+zul	Same best model	84.0	Best model: Seq2seq	1500	without
+zul	Same top two model	62.0	Best top two model: 4-CRF Seq2seq	1500	without
+zul	Same model ranking	4.0	First ranking: Morfessor 0-CRF 3-CRF 1-CRF 2-CRF 4-CRF Seq2seq	1500	without
+zul	A best model	84.0	What is it: Seq2seq	1500	without
+zul	A best model ranking	24.0	What is it: Morfessor 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF Seq2seq	1500	without

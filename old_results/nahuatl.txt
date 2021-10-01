@@ -1,0 +1,21 @@
+Language	Index	Proportion	Summary	Size	Replacement
+nahuatl	Same best model	40.0	Best model: 4-CRF	500	with
+nahuatl	Same top two model	38.0	Best top two model: 3-CRF 4-CRF	500	with
+nahuatl	Same model ranking	16.0	First ranking: Morfessor Seq2seq 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF	500	with
+nahuatl	A best model	40.0	What is it: 4-CRF	500	with
+nahuatl	A best model ranking	16.0	What is it: Morfessor Seq2seq 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF	500	with
+nahuatl	Same best model	32.0	Best model: 4-CRF	500	without
+nahuatl	Same top two model	24.0	Best top two model: 3-CRF 4-CRF	500	without
+nahuatl	Same model ranking	6.0	First ranking: Morfessor Seq2seq 0-CRF 1-CRF 2-CRF 3-CRF 4-CRF	500	without
+nahuatl	A best model	40.0	What is it: 3-CRF	500	without
+nahuatl	A best model ranking	12.0	What is it: Morfessor Seq2seq 0-CRF 2-CRF 1-CRF 3-CRF 4-CRF	500	without
+nahuatl	Same best model	38.0	Best model: 3-CRF	1000	with
+nahuatl	Same top two model	6.0	Best top two model: 1-CRF 3-CRF	1000	with
+nahuatl	Same model ranking	6.0	First ranking: Morfessor 0-CRF Seq2seq 2-CRF 4-CRF 1-CRF 3-CRF	1000	with
+nahuatl	A best model	54.0	What is it: 4-CRF	1000	with
+nahuatl	A best model ranking	20.0	What is it: Morfessor 0-CRF Seq2seq 2-CRF 1-CRF 3-CRF 4-CRF	1000	with
+nahuatl	Same best model	30.0	Best model: 4-CRF	1000	without
+nahuatl	Same top two model	8.0	Best top two model: 2-CRF 4-CRF	1000	without
+nahuatl	Same model ranking	6.0	First ranking: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 2-CRF 4-CRF	1000	without
+nahuatl	A best model	40.0	What is it: 3-CRF	1000	without
+nahuatl	A best model ranking	16.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 2-CRF 4-CRF 3-CRF	1000	without

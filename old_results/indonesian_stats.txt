@@ -1,0 +1,11 @@
+Language Size Replacement Morphs morphs_per_word
+ind 3000 with 1471.0 1.86
+ind 3000 without 1953.0 1.84
+ind 1500 with 1023.0 1.84
+ind 1500 without 1187.0 1.85
+ind 2000 with 1168.0 1.85
+ind 2000 without 1473.0 1.83
+ind 500 with 445.0 1.83
+ind 500 without 487.0 1.85
+ind 1000 with 754.0 1.89
+ind 1000 without 833.0 1.85

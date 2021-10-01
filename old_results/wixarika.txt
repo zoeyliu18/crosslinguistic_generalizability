@@ -1,0 +1,21 @@
+Language	Index	Proportion	Summary	Size	Replacement
+wixarika	Same best model	38.0	Best model: 2-CRF	500	with
+wixarika	Same top two model	22.0	Best top two model: 3-CRF 2-CRF	500	with
+wixarika	Same model ranking	6.0	First ranking: Morfessor 0-CRF Seq2seq 4-CRF 1-CRF 3-CRF 2-CRF	500	with
+wixarika	A best model	38.0	What is it: 2-CRF	500	with
+wixarika	A best model ranking	16.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 3-CRF 2-CRF 4-CRF	500	with
+wixarika	Same best model	22.0	Best model: 3-CRF	500	without
+wixarika	Same top two model	18.0	Best top two model: 2-CRF 3-CRF	500	without
+wixarika	Same model ranking	6.0	First ranking: Morfessor Seq2seq 0-CRF 1-CRF 4-CRF 2-CRF 3-CRF	500	without
+wixarika	A best model	38.0	What is it: 2-CRF	500	without
+wixarika	A best model ranking	16.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 4-CRF 3-CRF 2-CRF	500	without
+wixarika	Same best model	38.0	Best model: 4-CRF	1000	with
+wixarika	Same top two model	16.0	Best top two model: 3-CRF 4-CRF	1000	with
+wixarika	Same model ranking	4.0	First ranking: Morfessor 0-CRF 1-CRF Seq2seq 2-CRF 3-CRF 4-CRF	1000	with
+wixarika	A best model	38.0	What is it: 4-CRF	1000	with
+wixarika	A best model ranking	12.0	What is it: Morfessor 0-CRF Seq2seq 3-CRF 1-CRF 2-CRF 4-CRF	1000	with
+wixarika	Same best model	8.0	Best model: 1-CRF	1000	without
+wixarika	Same top two model	6.0	Best top two model: 3-CRF 1-CRF	1000	without
+wixarika	Same model ranking	6.0	First ranking: Morfessor 0-CRF Seq2seq 2-CRF 4-CRF 3-CRF 1-CRF	1000	without
+wixarika	A best model	42.0	What is it: 2-CRF	1000	without
+wixarika	A best model ranking	22.0	What is it: Morfessor 0-CRF Seq2seq 1-CRF 4-CRF 3-CRF 2-CRF	1000	without
